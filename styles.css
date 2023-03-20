@@ -1,0 +1,21 @@
+.header{
+    margin: 10px auto;  
+    width: 360px;
+    height: auto;
+    background-color: red;
+}
+.header-img{
+    width: 50px;
+    height: auto; 
+    display: inline;
+    margin: 10px 0 0 10px;
+
+}
+.header>h1{
+    width: 200px;
+    display: inline;
+    font-family: "Trebuchet MS";
+    text-align: right;
+    font-weight: bold;
+    font-size: 46px;
+}
